@@ -1,0 +1,16 @@
+{
+  "name": "empire_state_driving_school",
+  "version": "1.0.0",
+  "description": "Website for Empire State Driving School",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Owen Rapaport",
+  "license": "ISC",
+  "dependencies": {
+    "pg": "^4.4.1",
+    "pg-hstore": "^2.3.2",
+    "sequelize": "^3.5.1"
+  }
+}
