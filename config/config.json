@@ -1,0 +1,17 @@
+{
+  "development": {
+    "database": "empire_state_driving_school_dev",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "database": "empire_state_driving_school_test",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "database": "empire_state_driving_school_prod",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
