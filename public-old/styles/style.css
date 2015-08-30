@@ -1,0 +1,41 @@
+html, body {
+  height: 100%;
+  text-align: center;
+  background-color: #C5E3BF;
+}
+
+.logo h1 {
+  color: #f00;
+}
+
+.logo {
+  background-color: #C5E3BF;
+}
+
+.wrapper {
+  background-color: #C5E3BF;
+  min-height: 100%;
+  margin: 0 auto -50px;
+  text-align: center;
+}
+
+footer {
+  height: 50px;
+  text-align: center;
+}
+
+li.active {
+  border-left: 2px solid black;
+}
+
+.tab-pane {
+  margin: 25px auto 70px auto;
+}
+
+table {
+  margin: auto;
+}
+
+th {
+  padding-right: 25px;
+}
